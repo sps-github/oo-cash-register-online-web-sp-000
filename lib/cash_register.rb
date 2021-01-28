@@ -18,7 +18,7 @@ class CashRegister
       i -= 1
     end
   end
-  
+
 
 
 end
